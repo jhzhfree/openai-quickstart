@@ -8,5 +8,6 @@ pandas
 loguru
 openai
 langchain
+langchain-ollama
 gradio
 flask
